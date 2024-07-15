@@ -4,13 +4,13 @@ This is a simple text-based Blackjack game implemented in Python. The game allow
 
 1. Start the Game:
    - Run the script and type 'START' when prompted to begin the game.
-     <img width="452" alt="1" src="https://github.com/user-attachments/assets/83aa4911-ab23-4b2c-a47d-7fc41075559e">
+   <img width="452" alt="1" src="https://github.com/user-attachments/assets/83aa4911-ab23-4b2c-a47d-7fc41075559e">
 
 
 2. Dealing Cards:
    - You and the computer will each be dealt two cards.
    - You will see both of your cards and one of the computer's cards.
-     <img width="386" alt="2" src="https://github.com/user-attachments/assets/358a44b3-82af-4a59-9978-98e0f5b54214">
+   <img width="386" alt="2" src="https://github.com/user-attachments/assets/358a44b3-82af-4a59-9978-98e0f5b54214">
 
 
 3. Drawing Cards:
