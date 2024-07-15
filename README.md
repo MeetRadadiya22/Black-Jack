@@ -39,5 +39,4 @@ This is a simple text-based Blackjack game implemented in Python. The game allow
 3. Run the script in any IDE of your choice.
 
 # Acknowledgments
-
-- Inspired by the classic card game Blackjack.
+   - Inspired by the classic card game Blackjack.
