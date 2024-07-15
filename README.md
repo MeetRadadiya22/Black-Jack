@@ -1,5 +1,3 @@
-This is a simple text-based Blackjack game implemented in Python. The game allows you to play against the computer, where the objective is to get as close to 21 as possible without going over.
-
 # Instructions to play the Blakjack game:
 
 1. Start the Game:
